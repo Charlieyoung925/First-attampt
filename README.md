@@ -1,2 +1,3 @@
-# First-attampt
-This is Charlie's first github repository
+# First-helloworld
+This is Charlie's first github repo
+printf("hello!World!”)
